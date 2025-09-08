@@ -79,7 +79,7 @@ export default function Gallery() {
 
       <section className = "galleryBox">
         <div className = "imageBox">
-        <img src ="/images/PPTCSoloDunk.png" alt = "img" className ="galleryImages"></img>
+        <img src ="/images/pptcsolodunk.png" alt = "img" className ="galleryImages"></img>
         </div>
         <p>Getting dunked after my first solo in Cessna 152! (2024)</p>
       </section>
