@@ -1,8 +1,8 @@
 export default function About() {
     const handleDownload = () => {
     const link = document.createElement("a");
-    link.href = "/Isaac_Man___General_Resume___Updated_Sept_8__2025";                 // PDF in public folder
-    link.download = "/Isaac_Man___General_Resume___Updated_Sept_8__2025.pdf";       // filename when downloaded
+    link.href = "/images/Isaac_Man___General_Resume___Updated_Sept_8__2025";                 // PDF in public folder
+    link.download = "/images/Isaac_Man___General_Resume___Updated_Sept_8__2025.pdf";       // filename when downloaded
     link.click();
   }
   return (
