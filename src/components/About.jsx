@@ -1,10 +1,4 @@
 export default function About() {
-    const handleDownload = () => {
-    const link = document.createElement("a");
-    link.href = "/images/Isaac_Man___General_Resume___Updated_Sept_8__2025";                 // PDF in public folder
-    link.download = "/images/Isaac_Man___General_Resume___Updated_Sept_8__2025.pdf";       // filename when downloaded
-    link.click();
-  }
   return (
     <section className="pagePadding">
         <br></br><br></br>
@@ -25,7 +19,7 @@ export default function About() {
       <div className = "smallButtons">
       <a href="https://github.com/isaac-man-176" target="_blank" rel="noopener noreferrer"><img src="/images/githublogo.png" className = "githubLogo"></img></a>
       <a href="https://www.linkedin.com/in/isaac-man-865621305/" target="_blank" rel="noopener noreferrer"><img src="/images/linkedinlogo.png" className = "linkedinLogo"></img></a>
-      <button className="resumeButton" onClick={handleDownload}>Resume</button>
+      <a href="\images\Isaac_Man___General_Resume___Updated_Sept_8__2025.pdf" download><button className="resumeButton">Resume</button></a>
       </div>
       </div>
       </section>
