@@ -30,7 +30,7 @@ export default function Gallery() {
 
       <section className = "galleryBox">
         <div className = "imageBox">
-        <img src ="/src/images/HighschoolGrad.png" alt = "img" className ="galleryImages"></img>
+        <img src ="/src/images/highschoolgrad.png" alt = "img" className ="galleryImages"></img>
         </div>
         <p>Highschool Graduation! (2025)</p>
       </section>

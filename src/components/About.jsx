@@ -23,8 +23,8 @@ export default function About() {
       <div className = "imageSection">
       <img src="src\images\IsaacManProfilePic.jpeg" alt = "Isaac Man"></img>
       <div className = "smallButtons">
-      <a href="https://github.com/isaac-man-176" target="_blank" rel="noopener noreferrer"><img src="/src/images/GithubLogo.png" className = "githubLogo"></img></a>
-      <a href="https://www.linkedin.com/in/isaac-man-865621305/" target="_blank" rel="noopener noreferrer"><img src="/src/images/LinkedinLogo.png" className = "linkedinLogo"></img></a>
+      <a href="https://github.com/isaac-man-176" target="_blank" rel="noopener noreferrer"><img src="/src/images/githublogo.png" className = "githubLogo"></img></a>
+      <a href="https://www.linkedin.com/in/isaac-man-865621305/" target="_blank" rel="noopener noreferrer"><img src="/src/images/linkedinlogo.png" className = "linkedinLogo"></img></a>
       <button className="resumeButton" onClick={handleDownload}>Resume</button>
       </div>
       </div>
