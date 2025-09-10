@@ -62,7 +62,7 @@ export default function Contact() {
       <br />
       <br />
       <h2>Or Via</h2>
-      <p>Email: i2man@uwaterloo.com</p>
+      <p>Email: i2man@uwaterloo.ca</p>
       <p>Location: Toronto, ON, Canada</p>
       <p>Linkedin: <a href="https://www.linkedin.com/in/isaac-man-865621305/" target="_blank" rel="noopener noreferrer">Isaac Man</a></p>
     </section>
