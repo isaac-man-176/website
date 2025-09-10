@@ -63,7 +63,6 @@ export default function Contact() {
       <br />
       <h2>Or Via</h2>
       <p>Email: isaacman176@gmail.com</p>
-      <p>Phone: (647) 966 - 1332</p>
       <p>Location: Toronto, ON, Canada</p>
       <p>Linkedin: <a href="https://www.linkedin.com/in/isaac-man-865621305/" target="_blank" rel="noopener noreferrer">Isaac Man</a></p>
     </section>
