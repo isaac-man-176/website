@@ -43,6 +43,17 @@ export default function Gallery() {
 
       <section className = "galleryBox">
         <div className = "imageBox">
+        <img src ="/images/Cansat.jpeg" alt = "img" className ="galleryImages"></img>
+        </div>
+        <p className="skillz">Arduino, Prototyping, CAD, Onshape</p>
+        <h1 className="projectTitle">Can-Sat Miniature Satellite</h1>
+        <p className = "description">Constructed a mini satellite to detect temperature, air pressure, and acceleration, using a BMP 280 and MPU
+6050 sensor, soldered and wired onto an Arduino UNO R3 board. The satellite was dropped 100+ meters above ground and successfully captured various data of the atmosphere.
+</p>
+      </section>
+
+      <section className = "galleryBox">
+        <div className = "imageBox">
         <img src ="/images/Pacman.jpeg" alt = "img" className ="galleryImages"></img>
         </div>
         <p className="skillz">Glowforge Laser Cutting, CNC, 3D Printing, CAD, Onshape
