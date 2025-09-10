@@ -48,7 +48,7 @@ export default function Gallery() {
         <p className="skillz">Arduino, Prototyping, CAD, Onshape</p>
         <h1 className="projectTitle">Can-Sat Miniature Satellite</h1>
         <p className = "description">Constructed a mini satellite to detect temperature, air pressure, and acceleration, using a BMP 280 and MPU
-6050 sensor, soldered and wired onto an Arduino UNO R3 board. The satellite was dropped 100+ meters above ground and successfully captured various data of the atmosphere.
+6050 sensor, soldered onto an Arduino UNO R3 board. The satellite was dropped 100+ meters above ground and successfully captured various data of the atmosphere.
 </p>
       </section>
 
