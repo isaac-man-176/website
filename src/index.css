@@ -273,7 +273,7 @@ main {
 
 .projectsPage > .gallerySection > .galleryBox{
   width: 450px;
-  height: 600px;
+  height: 650px;
   overflow-wrap: break-word;
 }
 
@@ -282,4 +282,13 @@ main {
   overflow: hidden;
   border-radius: 15px;
   width:450px;
+}
+
+.projectsPage > .gallerySection > .galleryBox > a{
+  background-color: transparent;
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-top: 0;
+  padding-bottom: 15px;
+  font-size: 13px;
 }

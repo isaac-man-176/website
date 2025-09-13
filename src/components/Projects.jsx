@@ -27,6 +27,8 @@ export default function Gallery() {
 </h1>
         <p className = "description">Designed a robust and efficient vehicle, optimizing the shape with CFD analysis. Promoted sustainability by repurposing unused robotics components and optimizing material efficiency. Used various electrical devices such as 2 WCP Kraken X60 Motors, and implemented a steering and braking system. Achieved a top speed of 40 km/h.
 </p>
+        <a href="https://cad.onshape.com/documents/05cf3b641ee4c460f41d1e71/w/67c9bd82c64e835995ff3b82/e/f7ecb65d8b774b501f7e5767?renderMode=0&uiState=68c5f838cdd257f1bfe7e6f0" target="_blank" rel="noopener noreferrer"><button className="resumeButton">Onshape CAD File</button></a>
+
       </section>
 
       <section className = "galleryBox">
@@ -39,6 +41,11 @@ export default function Gallery() {
 </h1>
         <p className = "description">Created a 3D CAD model of various control system assemblies, such as storage containers, lights, a fuel tank, ariel lift elevator, and reinforcement frames. Developed detaield mechanical drawings to assist mechanics in the production line.
 </p>
+        <a href="\images\TTC_Truck_Drawing_Package.pdf" download><button className="resumeButton">Download Mechanical Drawings</button></a>
+        <a href="https://cad.onshape.com/documents/0f5ba5d7489b6b53202310ac/w/59f94dcc740d5dab35963c14/e/90291b965c0a4cbe4f57a10a?renderMode=0&uiState=68c5f5c97539e8eb42522522" target="_blank" rel="noopener noreferrer"><button className="resumeButton">Onshape CAD File</button></a>
+
+
+
       </section>
 
       <section className = "galleryBox">
@@ -64,6 +71,8 @@ export default function Gallery() {
         <p className = "description">Created a physical simulation of the game Pacman, with various gears, linkages, and mechanisms to add motion. Added electrical components to motorize the crank handle that runs the simulation.
 
 </p>
+        <a href="https://cad.onshape.com/documents/2822d7125bd57a790487e426/w/f6529e9e47a20687f1f2ad04/e/1039c757fb191a435a34f593?renderMode=0&uiState=68c5f7baf3beaa0f0d676011" target="_blank" rel="noopener noreferrer"><button className="resumeButton">Onshape CAD File</button></a>
+
       </section>
 
       </div>
