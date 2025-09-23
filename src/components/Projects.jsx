@@ -50,7 +50,7 @@ export default function Gallery() {
 
       <section className = "galleryBox">
         <div className = "imageBox">
-        <img src ="public\images\skills_comp_drawing.png" alt = "img" className ="galleryImages"></img>
+        <img src ="/images/skills_comp_drawing.png" alt = "img" className ="galleryImages"></img>
         </div>
         <p className="skillz">CAD, Mechanical Draiwng, Onshape, Fusion 360 Render, GD&T
 </p>
