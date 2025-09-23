@@ -50,6 +50,24 @@ export default function Gallery() {
 
       <section className = "galleryBox">
         <div className = "imageBox">
+        <img src ="public\images\skills_ont_drawing.svg" alt = "img" className ="galleryImages"></img>
+        </div>
+        <p className="skillz">CAD, Mechanical Draiwng, Onshape, Fusion 360 Render, GD&T
+</p>
+        <h1 className="projectTitle">Mechanical CAD Skills Ont. Comp.
+</h1>
+        <p className = "description">Bronze Medalist. Redesigned a fully parametric 3D window assembly to enable multi-purpose configurability for 100+ window sizes
+and shapes, improve ergonomics and usability, and allow new prototypes to be created in under 3 minutes.
+</p>
+        <a href="\images\skills_ont_drawing_package_and_render.pdf" download><button className="resumeButton">Download Mechanical Drawings and Render</button></a>
+        <a href="https://cad.onshape.com/documents/fbfcd6d49c88085e5c4f4f6b/w/0c0a2ae28f8953a419ccd696/e/8a16dd29e7d49de88d2394e3?renderMode=0&uiState=68d21ea173602ad1b26faeb2" target="_blank" rel="noopener noreferrer"><button className="resumeButton">Onshape CAD File</button></a>
+
+
+
+      </section>
+
+      <section className = "galleryBox">
+        <div className = "imageBox">
         <img src ="/images/Cansat.jpeg" alt = "img" className ="galleryImages"></img>
         </div>
         <p className="skillz">C++, Arduino, Prototyping, CAD, Onshape</p>
