@@ -33,6 +33,23 @@ export default function Gallery() {
 
       <section className = "galleryBox">
         <div className = "imageBox">
+        <img src ="/images/EchoesDemo.png" alt = "img" className ="galleryImages"></img>
+        </div>
+        <p className="skillz">MongoDB, Gemini API, React.js, Node.js, HTML, CSS
+</p>
+        <h1 className="projectTitle">Echoes
+</h1>
+        <p className = "description">An AI-powered web application that connects students with similar peer experiences, replacing polished
+success stories with real-time guidance from those navigating similar paths.
+</p>
+        <a href="https://echoes-by-isaac.vercel.app/" target="_blank" rel="noopener noreferrer"><button className="resumeButton">Website</button></a>
+        <a href="https://github.com/isaac-man-176/echoes" target="_blank" rel="noopener noreferrer"><button className="resumeButton">Github Repository</button></a>
+        <a href="https://devpost.com/software/echoes-6gh3b4" target="_blank" rel="noopener noreferrer"><button className="resumeButton">Devpost</button></a>
+        </section>
+
+
+      <section className = "galleryBox">
+        <div className = "imageBox">
         <img src ="/images/TTCTruckCAD.png" alt = "img" className ="galleryImages"></img>
         </div>
         <p className="skillz">CAD, Mechanical Draiwngs, Onshape
